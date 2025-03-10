@@ -1,0 +1,19 @@
+{
+	"name": "created-stratum-example-typescript",
+	"description": "Example repository created from create-stratum-example's --preset typescript. 💕",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bingo-examples/created-stratum-example-typescript.git"
+	},
+	"main": "src/index.js",
+	"type": "module",
+	"devDependencies": {
+		"prettier": "^3.5.3",
+		"typescript": "5.8.2"
+	},
+	"scripts": {
+		"format": "prettier .",
+		"tsc": "tsc"
+	}
+}
